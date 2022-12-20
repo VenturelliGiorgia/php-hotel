@@ -1,0 +1,13 @@
+.bg-table {
+
+    background-color: bisque;
+    border: 2px solid black;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.border-bottom-1{
+    border-bottom: 1px solid black;
+}
